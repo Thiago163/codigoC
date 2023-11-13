@@ -1,0 +1,47 @@
+--O que representa os 100 anos da arte moderna?
+   - Artistas se reuniram em um evento onde gerou uma inovacao intelectual no Brasil
+   - Inovacao
+   - Aumento no preco das artes brasileiras
+   - Padronizar o estilo de arte mundial
+
+----Interatividade com o Software nas Exposicoes:
+   - INCRIVEL
+   - BOA
+   - RAZOAVEL
+   - INSATISFATORIA
+
+----O software nas exposicoes facilitou sua interacao com as obras?
+   - SIM
+   - NAO
+   - TALVEZ
+   - NAO VI NECESSIDADE
+
+----Quais sao as obras que marcaram o modernismo?:
+   - Tarsila do Amaral: Abaporu (1928), Antropofagia (1929), Operarios (1933)
+   - Anita Malfatti: O homem amarelo (1915), A estudante (1915), O japones (1915)
+   - Serafim Ponte Grande (1933), Marco Zero (1943)
+   - Candido Portinari: Cafe (1935), O lavrador de cafe (1934), Guarani (1942)
+
+----Quais obras estao disponiveis nesta exposicao, de acordo com o texto?
+   - "Abaporu" e "Operarios" de Tarsila do Amaral
+   - "O Homem Amarelo" de Anita Malfatti
+   - Todas as opções anteriores
+   - Nenhuma das opções anteriores
+
+----As tematicas escolhidas foram relevantes e interessantes?
+   - SIM
+   - NAO MUITO
+   - CERTAMENTE NAO
+   - NAO SEI DIZER
+
+----Experiencia Geral no Museu:
+   - ADOREI
+   - BOA
+   - MAIS OU MENOS
+   - NAO GOSTEI
+
+----Voce sentiu que contribuiu para o aprendizado ao interagir com o software no museu?
+   - CONCERTEZA
+   - SIM
+   - TALVEZ
+   - NAO

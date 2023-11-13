@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ggina"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-10-13 10:21:51 "/>
+        <attribute name="created" value="Z2dpbmE7VEhJQUdPOzIwMjMtMTAtMTM7IjEwOjA2OjM0ICI7MjE0Mw=="/>
+        <attribute name="edited" value="Z2dpbmE7VEhJQUdPOzIwMjMtMTAtMTM7IjEwOjIxOjUxICI7MjsyMjQ4"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="pergunta" type="Integer" array="False" size=""/>
+            <declare name="resposta" type="String" array="False" size=""/>
+            <output expression="&quot;Abrir arquivo.txt&quot;" newline="True"/>
+            <for variable="pergunta" start="1" end="8" direction="inc" step="1">
+                <output expression="&quot;pergunta&quot; &amp;pergunta" newline="True"/>
+                <output expression="&quot;alternativas&quot;" newline="True"/>
+                <input variable="resposta"/>
+            </for>
+            <close/>
+            <output expression="&quot;Fechar arquivo.txt&quot;" newline="True"/>
+            <output expression="&quot;respostas enviadas para o excel&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

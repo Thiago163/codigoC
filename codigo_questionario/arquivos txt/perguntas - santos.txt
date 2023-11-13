@@ -1,0 +1,47 @@
+--Quais materiais Santos Dumont usou para construir o 14 Bis?
+   - 14 Bis: Bambu, aluminio, 1 pessoa, 160kg, 30,8 km/h.
+   - Cesta de balao para o piloto.
+   - Rodas de bicicletas
+   - 10m comprimento, 4,8m altura, 160kg, 30,8 km/h
+
+----Interatividade com o Software nas Exposicoes:
+   - INCRIVEL
+   - BOA
+   - RAZOAVEL
+   - INSATISFATORIA
+
+----O software nas exposicoes facilitou sua interacao com as obras?
+   - SIM
+   - NAO
+   - TALVEZ
+   - NAO VI NECESSIDADE
+
+----Qual foi o papel dos irmãos Wright no desenvolvimento do primeiro modelo aeroplano bem-sucedido de Dumont?
+   - Estudaram e que patentearam a ideia antes
+   - Deixaram o Dummont patentiar
+   - Compraram livros para Dummont
+   - Nada
+
+----Quais sao os destaques nesta exposicao?
+   - o Conversor Marciano de 1932, um intrigante Balão a Gasolina com Motor e o icônico 14 Bis.
+   - o Conversor Marciano de 1932
+   - Balao a Gasolina com Motor
+   - Nenhuma
+
+----As tematicas escolhidas foram relevantes e interessantes?
+   - SIM
+   - NAO MUITO
+   - CERTAMENTE NAO
+   - NAO SEI DIZER
+
+----Experiencia Geral no Museu:
+   - ADOREI
+   - BOA
+   - MAIS OU MENOS
+   - NAO GOSTEI
+
+----Voce sentiu que contribuiu para o aprendizado ao interagir com o software no museu?
+   - CONCERTEZA
+   - SIM
+   - TALVEZ
+   - NAO

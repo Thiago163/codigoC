@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ggina"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-19 08:15:16 "/>
+        <attribute name="created" value="Z2dpbmE7VEhJQUdPOzIwMjMtMDktMTk7IjAyOjA0OjE4ICI7MjE1OA=="/>
+        <attribute name="edited" value="Z2dpbmE7VEhJQUdPOzIwMjMtMDktMTk7IjA4OjE1OjE2ICI7NDsyMjc1"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="opcao, quantidade, alternativa" type="Integer" array="False" size=""/>
+            <declare name="resposta" type="String" array="False" size=""/>
+            <output expression="&quot;Bem vindo ao question&#225;rio do museu&quot;" newline="True"/>
+            <output expression="&quot;Escolha o question&#225;rio que deseja responder:&quot; &amp;&#13;&#10;&quot;1. Santos Dumont&quot; &amp;&#13;&#10;&quot;2. Jogos Ol&#237;mpicos&quot; &amp;&#13;&#10;&quot;3. Semana de Arte Moderna&quot; &amp;&#13;&#10;&quot;4. Hist&#243;ria do real ao bitcoin&quot;" newline="True"/>
+            <input variable="opcao"/>
+            <if expression="opcao == 1">
+                <then>
+                    <output expression="&quot;questin&#225;rio Santos Dumont&quot;" newline="True"/>
+                    <for variable="quantidade" start="1" end="5" direction="inc" step="1">
+                        <output expression="&quot;pergunta&quot;" newline="True"/>
+                        <output expression="&quot;escolha a alternativa correta&quot;" newline="True"/>
+                        <for variable="alternativa" start="1" end="4" direction="inc" step="1">
+                            <output expression="&quot;alternativa &quot; &amp; alternativa" newline="True"/>
+                        </for>
+                        <input variable="resposta"/>
+                        <if expression="resposta == &quot;certo&quot;">
+                            <then>
+                                <output expression="&quot;acertou&quot;" newline="True"/>
+                            </then>
+                            <else>
+                                <output expression="&quot;Errou&quot;" newline="True"/>
+                            </else>
+                        </if>
+                    </for>
+                </then>
+                <else>
+                    <output expression="&quot;opcao invalida&quot;" newline="True"/>
+                </else>
+            </if>
+            <output expression="&quot;dados enviados para um arquivo csv&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

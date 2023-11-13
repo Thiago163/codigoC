@@ -1,0 +1,47 @@
+--Quais sao as duas novas modalidades que entraram nessas edicoes das Olimpiadas?
+   - Skateboarding e escalada esportiva
+   - BMX e natacao artistica
+   - Breaking e canoagem slalom extremo
+   - Tenis de mesa e esgrima
+
+----Interatividade com o Software nas Exposicoes:
+   - INCRIVEL
+   - BOA
+   - RAZOAVEL
+   - INSATISFATORIA
+
+----O software nas exposicoes facilitou sua interacao com as obras?
+   - SIM
+   - NAO
+   - TALVEZ
+   - NAO VI NECESSIDADE
+
+----Quais objetos especificos estao em exposicao relacionados aos Jogos Olimpicos de Paris 2024?
+   - Escultura da mascote Phryges e duas referencias a previsoes de outros eventos
+   - Pinturas de artistas locais
+   - Trofeus de competicoes anteriores
+   - Nenhuma das opcoes anteriores
+
+----Quais sao as duas novas modalidades apresentadas nos Jogos Olimpicos de Paris 2024?
+   - Futebol e tenis de mesa
+   - Breaking e canoagem slalom extremo
+   - Natacao e ciclismo
+   - Nenhuma das opcoes anteriores
+
+----As tematicas escolhidas foram relevantes e interessantes?
+   - SIM
+   - NAO MUITO
+   - CERTAMENTE NAO
+   - NAO SEI DIZER
+
+----Experiencia Geral no Museu:
+   - ADOREI
+   - BOA
+   - MAIS OU MENOS
+   - NAO GOSTEI
+
+----Voce sentiu que contribuiu para o aprendizado ao interagir com o software no museu?
+   - CONCERTEZA
+   - SIM
+   - TALVEZ
+   - NAO

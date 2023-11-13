@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ggina"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-22 11:07:26 "/>
+        <attribute name="created" value="Z2dpbmE7VEhJQUdPOzIwMjMtMDktMTk7IjA4OjE1OjQ1ICI7MjE2Ng=="/>
+        <attribute name="edited" value="Z2dpbmE7VEhJQUdPOzIwMjMtMDktMjI7IjExOjA3OjI2ICI7ODsyMjY5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="escolha" type="Integer" array="False" size=""/>
+            <while expression="true">
+                <output expression="&quot;Escolha uma op&#231;&#227;o&quot; &amp;&#13;&#10;&quot;1 Entrada Santos&quot; &amp;&#13;&#10;&quot;2 Entrada Paris&quot; &amp;&#13;&#10;&quot;3 Entrada Arte&quot; &amp;&#13;&#10;&quot;4 Entrada Bitcoin&quot;" newline="True"/>
+                <input variable="escolha"/>
+                <output expression="&quot;dados enviados para um arquivo csv&quot;" newline="True"/>
+            </while>
+            <output expression="&quot;Deu algum erro&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
